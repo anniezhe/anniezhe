@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 📚 Studying applied math at a criminal justice school
 - 🍱 Big foodie
 - 👩🏻‍💻 Currently maintaining the Computer Science Society's CSS_Website repository with my club executives team
+- 🌐 Interested in coding and working with databases
