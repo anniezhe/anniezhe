@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ Fun fact:
+⚡ Fun fact:
+- I'm studying applied math at a criminal justice school.
+- I'm a big foodie.
+- I'm currently maintaining the Computer Science Society's CSS_Website repository with my club executives team. 
