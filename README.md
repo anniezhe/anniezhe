@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **anniezhe/anniezhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Fun fact:
-- I'm studying applied math at a criminal justice school.
-- I'm a big foodie.
-- I'm currently maintaining the Computer Science Society's CSS_Website repository with my club executives team. 
+- 📚 Studying applied math at a criminal justice school
+- 🍱 Big foodie
+- 👩🏻‍💻 Currently maintaining the Computer Science Society's CSS_Website repository with my club executives team
