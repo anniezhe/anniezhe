@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Fun fact about me:
-- Studying applied math at a criminal justice school 📚
+- Currently studying applied math at a criminal justice school 📚
 - Big foodie 🍱
 - Interested in coding and working with databases 🌐
