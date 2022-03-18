@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 ⚡ Fun fact about me:
 - Studying applied math at a criminal justice school 📚
 - Big foodie 🍱
-- Currently maintaining the [Computer Science Society's Website repository](https://github.com/jjcss/CSS_Website) with my club executives team 👩🏻‍💻
 - Interested in coding and working with databases 🌐
