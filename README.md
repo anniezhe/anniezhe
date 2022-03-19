@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Big foodie 🍱
 - Interested in coding and working with databases 🌐
 
-![Annie's Github Stats](https://github-readme-stats.vercel.app/api?username=anniezhe&show_icons=true&hide_rank=TRUE&hide=stars&bg_color=angle,192841,7851a9&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
+![Annie's Github Stats](https://github-readme-stats.vercel.app/api?username=anniezhe&show_icons=true&hide_rank=TRUE&hide=stars&bg_color=angle,1c2e4a,7851a9&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 
 ### Connect With Me
 
