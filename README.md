@@ -1,4 +1,4 @@
-### Hi everyone 👋
+# Hi everyone 👋
 
 <!--
 **anniezhe/anniezhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Interested in coding and working with databases 🌐
 
 ## Connect With Me
-<img src = "{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+![Annie He]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
