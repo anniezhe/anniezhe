@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - Big foodie 🍱
 - Interested in coding and working with databases 🌐
 
+[![Annie's Github Stats](https://github-readme-stats.vercel.app/api?username=anniezhe?theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anniezhe0)
