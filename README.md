@@ -1,4 +1,4 @@
-### Hi everyone 👋
+## Hi everyone 👋
 
 <!--
 **anniezhe/anniezhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![Annie's Github Stats](https://github-readme-stats.vercel.app/api?username=anniezhe&show_icons=true&hide_rank=TRUE&hide=stars&bg_color=angle,1c2e4a,7851a9&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 
-### Connect With Me
+### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anniezhe0)
