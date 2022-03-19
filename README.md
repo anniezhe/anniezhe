@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - Currently studying applied math at a criminal justice school 📚
 - Big foodie 🍱
 - Interested in coding and working with databases 🌐
+
+## Connect With Me
+<img src = "{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" alt = "Annie He"/>
