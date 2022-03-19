@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Big foodie 🍱
 - Interested in coding and working with databases 🌐
 
-[![Annie's Github Stats](https://github-readme-stats.vercel.app/api?username=anniezhe?theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Annie's Github Stats](https://github-readme-stats.vercel.app/api?username=anniezhe&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect With Me
 
