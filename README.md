@@ -1,4 +1,4 @@
-# Hi everyone 👋
+### Hi everyone 👋
 
 <!--
 **anniezhe/anniezhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - Big foodie 🍱
 - Interested in coding and working with databases 🌐
 
-## Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anniezhe0)
