@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Fun fact about me:
-- Previously worked at Citigroup, Commit to Green, & Teladoc Health 📚
+- Worked at Citigroup, Commit to Green, & Teladoc Health 📚
 - Big foodie 🍱
 - Interested in coding and working with databases 🌐
 
