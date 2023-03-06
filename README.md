@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Fun fact about me:
-- Worked at Citigroup, Commit to Green, & Teladoc Health 📚
-- Big foodie 🍱
-- Interested in coding and working with databases 🌐
+- Worked at Citigroup as a summer analyst, Commit to Green as a full stack intern, & Teladoc Health as a mobile intern
+- Big foodie 
+- Interested in coding and working with databases 
+- Final undergrad year at CUNY John Jay
 
 
 
