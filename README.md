@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Fun fact about me:
-- Worked at Citigroup as a summer analyst, Commit to Green as a full stack intern, & Teladoc Health as a mobile intern
-- Big foodie 
-- Interested in coding and working with databases 
-- Final undergrad year at CUNY John Jay
+I'm in my final undergraduate year studying Applied Mathematics with Data Science concentration and minoring in Computer Science at CUNY John Jay. I'm also a software developer with experience in creating and deploying web applications. Currently, I work for CodePath as a tech fellow. Prior to working at CodePath, I worked for Citigroup as a summer analyst, Commit to Green as a full stack intern, and Teladoc Health as a mobile intern. Fun fact about me is that I love ramen. 
 
 
 
