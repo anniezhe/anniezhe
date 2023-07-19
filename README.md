@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm in my final undergraduate year studying Applied Mathematics with Data Science concentration and minoring in Computer Science at CUNY John Jay. I'm also a software developer with experience in creating and deploying web applications. Currently, I work for CodePath as a tech fellow. Prior to working at CodePath, I worked for Citigroup as a summer analyst, Commit to Green as a full stack intern, and Teladoc Health as a mobile intern. Fun fact about me is that I love ramen. 
+I'm a data analyst. I like mathematical models, and I am exploring Artificial Intelligence, Machine Learning, Data Science, and other similar fields. On June 2023, I graduated from CUNY John Jay with a bachelor's degree in Applied Mathematics with a concentration in Data Science and minored in Computer Science. I worked for CodePath as a tech fellow, Citigroup as a summer analyst, Commit to Green as a full stack intern, and Teladoc Health as a mobile intern. Fun fact about me is that I love ramen. 
 
 
 
