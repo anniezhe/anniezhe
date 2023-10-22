@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a data analyst. I like mathematical models, and I am exploring Artificial Intelligence, Machine Learning, Data Science, and other similar fields. I graduated from CUNY John Jay with a bachelor's degree in Applied Mathematics with a concentration in Data Science and minored in Computer Science. My goal is to sharpen my skills in Python, Data Analysis, Machine Learning, and SQL. 
+I am a data analyst who is exploring not just data analytics, but also data science, AI, machine learning, and other similar fields. I graduated from CUNY John Jay with a bachelor’s degree in applied math with a concentration in data science and a minor in computer science. I’m learning Python, machine learning, and SQL. My goal is to eventually pursue a career in AI.
 
 
 
