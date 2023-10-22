@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a data analyst. I like mathematical models, and I am exploring Artificial Intelligence, Machine Learning, Data Science, and other similar fields. I graduated from CUNY John Jay with a bachelor's degree in Applied Mathematics with a concentration in Data Science and minored in Computer Science. My goal is to sharpen my skills in Python, Data Analysis, Machine Learning, and SQL. Fun fact about me is that I love ramen. 
+I'm a data analyst. I like mathematical models, and I am exploring Artificial Intelligence, Machine Learning, Data Science, and other similar fields. I graduated from CUNY John Jay with a bachelor's degree in Applied Mathematics with a concentration in Data Science and minored in Computer Science. My goal is to sharpen my skills in Python, Data Analysis, Machine Learning, and SQL. 
 
 
 
