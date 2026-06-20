@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a data analyst who is exploring not just data analytics, but also data science, AI, machine learning, and other similar fields. I graduated from CUNY John Jay with a bachelor’s degree in applied math with a concentration in data science and a minor in computer science. I’m learning Python, machine learning, and SQL. My goal is to eventually pursue a career in AI.
+I'm an MPH student studying public health policy. My research interest is on how geographic locations and jurisdictions impact community health. 
 
 
 
