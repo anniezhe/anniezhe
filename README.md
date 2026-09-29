@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an MPH student studying public health policy. My research interest is on how geographic locations and jurisdictions impact community health. 
+I'm an MPH student studying public health policy and researching how spatial (GIS), civic (law and voting), and communication systems can work together to help improve population health outcomes in the US.
 
 
 
